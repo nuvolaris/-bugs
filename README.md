@@ -1,2 +1,3 @@
-# -bugs
-Bug Bounty
+# Bugs
+
+Report Bugs Here

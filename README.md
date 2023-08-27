@@ -1,4 +1,4 @@
 # Bugs
 
 Report Bugs Here
-![](bugbounty.jpg)
+![](bugbounty.jpeg)

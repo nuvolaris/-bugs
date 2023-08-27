@@ -14,11 +14,11 @@ We are organizing an Install Party live, and will invite all those who reported 
 
 ## Installation fails???
 
-If your installation fails, please file a book, and we will thank you.
+If your installation fails, please file a bug, and we will thank you.
 
 We have 10 copies of our book Learning Apache OpenWhisk, the serverless engine that is the foundation of Nuvolaris.
 
-I will make a gift of the book to whose will give us significant help in fixing the bugs.
+We will make a gift of the book to whose who will give us significant help in fixing the bugs with useful and reproducible bug reports.
 
 ![](bugbounty.jpeg)
 

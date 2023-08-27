@@ -1,4 +1,4 @@
-# Installation Bugs Bounty
+# Installation Bug Bounty
 
 Hi all! [Nuvolaris Community 3](https://nuvolaris.github.io) is available in preview.
 
